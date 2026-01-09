@@ -1,4 +1,11 @@
-# CodeTech_Task1
+# CodTech_Task1 - FILE OPERATIONS.
+
+# Company : CodeTech IT Solutions
+# Name : KP SUMANTH
+# Intern ID : CT12DR1418
+# Domain : Java Programming
+# Duration : 12 Weeks
+
 
 This project demonstrates file handling in Java using a menu-driven approach and separate classes.
 
