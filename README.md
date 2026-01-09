@@ -10,7 +10,7 @@
  
  Duration : 12 Weeks
  
- Mentor : Neela Santosh
+ Mentor : Neela Santhosh
 
  Code in the Master branch.
 This project demonstrates file handling in Java using a menu-driven approach and separate classes.
