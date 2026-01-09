@@ -22,8 +22,11 @@ The program allows users to create, read, write, and append a text file through 
 # Menu Options
 
 1.Write to File -> Creates a new file or overwrites existing content
+
 2.Read File -> Displays file contents
+
 3.Modify File -> Appends data to the existing file
+
 4.Exit -> Terminates the program
 
 
